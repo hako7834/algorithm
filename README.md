@@ -4,7 +4,9 @@
 *공사중*
 
 순서는 다음과 같습니다:
-<center>Brute-Force<br>
+
+<div align="center">
+Brute-Force<br>
 Stack, Queue, Deque<br>
 Recursion<br>
 Greedy<br>
@@ -16,4 +18,4 @@ Prefix Sum<br>
 Tree<br>
 
 *추가 예정*<br>
-</center>
+</div>
